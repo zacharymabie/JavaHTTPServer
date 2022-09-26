@@ -1,5 +1,5 @@
 Simple HTTP Server written in java using ServerSocket.
-ServerSocket implements a socket that servers can use to listen for and accept connections to clients. A ServerSocketr object establishes the port where a server waits for connections from clients. 
+ServerSocket implements a socket that servers can use to listen for and accept connections to clients. A ServerSocket object establishes the port where a server waits for connections from clients. 
 
 Compile and run using command line arguments. 
 
